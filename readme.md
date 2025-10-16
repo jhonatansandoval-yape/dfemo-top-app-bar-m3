@@ -1,3 +1,3 @@
 Demo Screen:
 
-[demo](docs/demo.gif)
+![demo](docs/demo.gif)
